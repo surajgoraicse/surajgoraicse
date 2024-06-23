@@ -21,8 +21,10 @@
  🔭  I’m currently learning **JavaScript and TailwindCSS. !**
 
 💪  I'm doing the **#100DaysOfCode** challenge and focused on **Project Building. !**
+    <br>    <br>    <br>
 
-⚡  Fun fact:  **90% of the world's data was created in the last two years. !**
+
+<!---⚡  Fun fact:  **90% of the world's data was created in the last two years. !** --->
 
  </div>
  
