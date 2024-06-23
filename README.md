@@ -12,7 +12,7 @@
 
 <div align="center">
 
-   👋  **Hi, there!** 
+   👋  **Hi, there !** 
 
   🙂  I'm **Suraj Gorai. !**
   
