@@ -18,7 +18,7 @@
   
  🌱  I’m currently in **First Year of B-Tech CSE. !**
  
- 🔭  I’m currently learning **JavaScript and TailwindCSS. !**
+ 🔭  I’m currently learning **React !**
 
 💪  I'm doing the **#100DaysOfCode** challenge and focused on **Project Building. !**
     <br>    <br>    <br>
