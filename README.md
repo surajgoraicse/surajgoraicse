@@ -52,17 +52,7 @@
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions ( Oops!🤯 )  🐍</h2>
-  <br>
-  <a href="#"><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /></a>
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
