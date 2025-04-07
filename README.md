@@ -70,11 +70,9 @@
 
 <br/>
 
-<div align="center">
-<a href='https://buymeacoffee.com/surajgoraicse' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
-<br/>
+
+
 
 
 
