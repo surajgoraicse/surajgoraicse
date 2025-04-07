@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=surajgoraicse.surajgoraicse" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Concert+One&weight=800&size=32&duration=3000&pause=3000&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Suraj!%F0%9F%91%8B;I'm+aspiring+Full-Stack+Developer." />
+    <img src="https://readme-typing-svg.demolab.com?font=Concert+One&weight=800&size=28&duration=3000&pause=3000&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I'm+Suraj!%F0%9F%91%8B;I'm+a+Full-Stack+Developer." />
 </h1>
 
 
