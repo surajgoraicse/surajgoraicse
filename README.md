@@ -1,5 +1,5 @@
 
 # 👋 Hey, I'm Suraj!  
 ```
-> Golang, Database, Distributed Systems and System Designs.
+> Golang, Databases, Distributed Systems and System Designs.
 ```
